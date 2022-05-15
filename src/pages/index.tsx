@@ -13,15 +13,6 @@ interface HomeProps {
   }
 }
 
-// Client-side
-// Server-side
-// Static Site Generation
-
-// Post do blog
-
-// Conteudo (SSG)
-// Comentários (Client-side)
-
 export default function Home({ product }: HomeProps) {
   return (
     <>
